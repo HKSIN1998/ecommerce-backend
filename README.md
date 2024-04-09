@@ -9,7 +9,7 @@ This project is a RESTful API built with Flask for managing products in an e-com
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/fan-of-stl/ecommerce-backend.git
+    git clone https://github.com/HKSIN1998/ecommerce-backend.git
     ```
 
 2. Navigate to the project directory:
